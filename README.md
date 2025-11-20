@@ -1,5 +1,5 @@
 # DataVizCourse
-My course on the Art of Data Visualisation
+My course on the Art of Data Visualisation (Contents in french)
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 ![GitHub last commit](https://img.shields.io/github/last-commit/WajdiBenSaad/DataVizCourse)
