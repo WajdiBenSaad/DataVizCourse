@@ -1,4 +1,4 @@
-# 🧭 Cours : Data Visualization for the Web  
+# 🧭 Cours : Data Visualization pour le Web  
 Description du cours
 
 Ce cours propose une introduction complète à la Data Visualization appliquée au web, en combinant fondements théoriques, analyse critique et pratique intensive. 
