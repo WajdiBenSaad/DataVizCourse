@@ -8,9 +8,7 @@ My course on the Art of Data Visualisation
 ![Made with Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
 
 ## 📋 Table of Contents
-- [Course Overview](#course-overview)
-- [Course Structure](#course-structure)
-- [Getting Started](#getting-started)
+- [Course Structure](Course_Structure.md)
 - [Citation](#citation)
 - [Contributing](#contributing)
 - [License](#license)
