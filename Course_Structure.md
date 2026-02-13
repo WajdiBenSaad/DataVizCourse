@@ -41,11 +41,25 @@ Une place importante est accordée à la cartographie, aux infographies, au stor
 ---
 
 ## **4. Visualisation Cartographique (Géospatial)**
+- Analyse et interprétation des cartographies
+- Les éléments indispensables d’une GeoViz réussie
+- Cartes en Python : librairies et outils
+  - GeoPandas
+  - Shapely
+  - Matplotlib (cartes statiques)
+  - Folium (Leaflet)
+  - Plotly Mapbox
 
+- **Atelier :Manipulation de données "géospatiales" : Création d’une carte interactive** 
 
 ---
 
-## **5. Dataviz pour le Web : Export, Interactivité & Intégration**
-
+## **5. Dataviz pour le Web , Dataviz en entreprise**
+- Les règles d’or d’une visualisation réussie
+- Dashboarding & reporting
+- Études de cas réels (marketing, finance, mobilité)
+- Outils open source
+- Outils d’entreprise
+- **Atelier  Analyse critique de dashboards professionnels**
 
 ---
