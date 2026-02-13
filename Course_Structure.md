@@ -1,5 +1,6 @@
 # 🧭 Cours : Data Visualization pour le Web  
-Description du cours
+
+### Description du cours:
 
 Ce cours propose une introduction complète à la Data Visualization appliquée au web, en combinant fondements théoriques, analyse critique et pratique intensive. 
 Les étudiants explorent d’abord les principes cognitifs et perceptifs qui guident la création de visualisations efficaces, ainsi que les bonnes pratiques de design utilisées dans les médias, la presse et l’analyse de données. 
