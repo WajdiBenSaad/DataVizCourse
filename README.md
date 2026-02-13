@@ -54,6 +54,7 @@ Thank you for helping improve this course!
 
 Feel free to reach out for questions, suggestions, or collaborations!
 You can reach me on one of the socials below: 
+
 [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://wajdix.blogspot.com/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wajdibensaad/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/wajdi_bs)

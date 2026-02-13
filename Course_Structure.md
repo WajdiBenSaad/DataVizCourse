@@ -1,5 +1,6 @@
 # 🧭 Cours : Data Visualization pour le Web  
-Description du cours
+
+### Description du cours:
 
 Ce cours propose une introduction complète à la Data Visualization appliquée au web, en combinant fondements théoriques, analyse critique et pratique intensive. 
 Les étudiants explorent d’abord les principes cognitifs et perceptifs qui guident la création de visualisations efficaces, ainsi que les bonnes pratiques de design utilisées dans les médias, la presse et l’analyse de données. 
@@ -41,11 +42,25 @@ Une place importante est accordée à la cartographie, aux infographies, au stor
 ---
 
 ## **4. Visualisation Cartographique (Géospatial)**
+- Analyse et interprétation des cartographies
+- Les éléments indispensables d’une GeoViz réussie
+- Cartes en Python : librairies et outils
+  - GeoPandas
+  - Shapely
+  - Matplotlib (cartes statiques)
+  - Folium (Leaflet)
+  - Plotly Mapbox
 
+- **Atelier :Manipulation de données "géospatiales" : Création d’une carte interactive** 
 
 ---
 
-## **5. Dataviz pour le Web : Export, Interactivité & Intégration**
-
+## **5. Dataviz pour le Web , Dataviz en entreprise**
+- Les règles d’or d’une visualisation réussie
+- Dashboarding & reporting
+- Études de cas réels (marketing, finance, mobilité)
+- Outils open source
+- Outils d’entreprise
+- **Atelier  Analyse critique de dashboards professionnels**
 
 ---
